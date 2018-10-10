@@ -1,0 +1,36 @@
+.big-title {
+	font-family: Rubik,sans-serif;
+    font-weight: 150;
+    font-size: 20px;
+    color: white;
+}
+
+.images {
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 0px;
+
+}
+
+.holidayImgWrpr {
+	padding: 20px;
+	/*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+}
+
+.bottom {
+	margin: 90px;
+	margin-top: 230px;
+	margin-left: 85px !important;
+}
+
+img {
+	width: 280px;
+	height: 330px;
+	text-align: center;
+	display: inline-block;
+	border: 1px solid gray;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 7px;
+}
+
+
